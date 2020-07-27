@@ -1,0 +1,229 @@
+[
+  {
+  "name": "Pumpkin",
+  "description": "Juicy Squash",
+  "price": "$10.00",
+  "rating": "Good",
+  "last_purchased": "2020-07-07",
+  "total_days_last_purchased": "12"
+},
+
+{
+  "name": "Red Beans",
+  "description": "Red beans in brine",
+  "price": "$8.00",
+  "rating": "Excellent",
+  "last_purchased": "2020-06-07",
+  "total_days_last_purchased": "32"
+},
+
+  {
+  "name": "Cabbage",
+  "description": "Hard Green Cabbage",
+  "price": "$50.00",
+  "rating": "Poor",
+  "last_purchased": "2020-04-23",
+  "total_days_last_purchased": "19"
+},
+
+  {
+  "name": "Pig Tail",
+  "description": "Porky pigs ends",
+  "price": "$43.00",
+  "rating": "High",
+  "last_purchased": "2020-02-05",
+  "total_days_last_purchased": "55"
+},
+  {
+  "name": "Potatoes",
+  "description": "Yellow Potatoes",
+  "price": "$23.00",
+  "rating": "Premium Grade",
+  "last_purchased": "2020-07-14",
+  "total_days_last_purchased": "9"
+},
+  {
+  "name": "Sweet Potatoes",
+  "description": "White Sweet Potatoes",
+  "price": "$45.00",
+  "rating": "Excellent",
+  "last_purchased": "2020-04-23",
+  "total_days_last_purchased": "72"
+},
+  {
+  "name": "Red Onions",
+  "description": "Pure Red Onions",
+  "price": "$40.00",
+  "rating": "Mediocre",
+  "last_purchased": "2020-05-27",
+  "total_days_last_purchased": "32"
+},
+  {
+  "name": "Dasheen",
+  "description": "White Dasheen",
+  "price": "$54.00",
+  "rating": "Premium Grade",
+  "last_purchased": "2020-01-07",
+  "total_days_last_purchased": "103"
+},
+  {
+  "name": "White Yam",
+  "description": "Bottle Neck Yam",
+  "price": "$15.00",
+  "rating": "High",
+  "last_purchased": "2020-03-26",
+  "total_days_last_purchased": "23"
+},
+  {
+  "name": "Brown Sugar",
+  "description": "Pure Brown Sugar",
+  "price": "$13.00",
+  "rating": "Poor",
+  "last_purchased": "2020-03-30",
+  "total_days_last_purchased": "144"
+},
+  {
+  "name": "Lettuce",
+  "description": "Iceberg Lettuce",
+  "price": "$43.00",
+  "rating": "Good",
+  "last_purchased": "2020-07-07",
+  "total_days_last_purchased": "44"
+},
+  {
+  "name": "Ripe Bananas",
+  "description": "Sweet Ripe Bananas",
+  "price": "$32.00",
+  "rating": "Good",
+  "last_purchased": "2020-04-08",
+  "total_days_last_purchased": "52"
+},
+  {
+  "name": "Oranges",
+  "description": "Juicy Ripe Oranges",
+  "price": "$51.00",
+  "rating": "Poor",
+  "last_purchased": "2020-03-13",
+  "total_days_last_purchased": "55"
+},
+  {
+  "name": "Beets",
+  "description": "Red Beets",
+  "price": "$62.00",
+  "rating": "High",
+  "last_purchased": "2020-04-27",
+  "total_days_last_purchased": "29"
+},
+{
+  "name": "Kool Aid",
+  "description": "Red Kool Aid",
+  "price": "$3.00",
+  "rating": "Great",
+  "last_purchased": "2020-04-12",
+  "total_days_last_purchased": "40"
+},
+  {
+  "name": "Cadbury Chocolate",
+  "description": "Hazelnut Choco",
+  "price": "$120.00",
+  "rating": "Premium Grade",
+  "last_purchased": "2020-01-27",
+  "total_days_last_purchased": "142"
+},
+  {
+  "name": "Nuts",
+  "description": "Honey Roasted Nuts",
+  "price": "$4.00",
+  "rating": "Good",
+  "last_purchased": "2020-05-13",
+  "total_days_last_purchased": "47"
+},
+  {
+  "name": "Jello",
+  "description": "Grape Flavour",
+  "price": "$1.00",
+  "rating": "Mediocre",
+  "last_purchased": "2020-02-22",
+  "total_days_last_purchased": "122"
+},
+  {
+  "name": "Beef",
+  "description": "Chunky Beef",
+  "price": "$54.00",
+  "rating": "High",
+  "last_purchased": "2020-07-14",
+  "total_days_last_purchased": "42"
+},
+  {
+  "name": "Canned Corn",
+  "description": "The Corniest",
+  "price": "$42.00",
+  "rating": "Poor",
+  "last_purchased": "2020-04-14",
+  "total_days_last_purchased": "98"
+},
+  {
+  "name": "Top Ramen",
+  "description": "Shrimp Noodle Ramen",
+  "price": "$2.00",
+  "rating": "Excellent",
+  "last_purchased": "2020-03-04",
+  "total_days_last_purchased": "32"
+},
+  {
+  "name": "Kale",
+  "description": "Leafy Green Vege",
+  "price": "$13.00",
+  "rating": "Great",
+  "last_purchased": "2020-07-01",
+  "total_days_last_purchased": "77"
+},
+  {
+  "name": "Fish",
+  "description": "Boneless Fish",
+  "price": "$90.00",
+  "rating": "Fine",
+  "last_purchased": "2020-03-14",
+  "total_days_last_purchased": "132"
+},
+  {
+  "name": "Chicken",
+  "description": "Boneless Chicken",
+  "price": "$10.00",
+  "rating": "Good",
+  "last_purchased": "2020-07-07",
+  "total_days_last_purchased": "12"
+},
+  {
+  "name": "Milk",
+  "description": "Fresh Cow Milk",
+  "price": "$40.00",
+  "rating": "Excellent",
+  "last_purchased": "2020-03-01",
+  "total_days_last_purchased": "90"
+},
+  {
+  "name": "Goat",
+  "description": "Boneless Goat",
+  "price": "$50.00",
+  "rating": "Poor",
+  "last_purchased": "2020-01-04",
+  "total_days_last_purchased": "42"
+},
+  {
+  "name": "Crab",
+  "description": "Blue Crab",
+  "price": "$120.00",
+  "rating": "Excellent",
+  "last_purchased": "2020-03-24",
+  "total_days_last_purchased": "82"
+},
+  {
+  "name": "Coconuts",
+  "description": "Chinese Coconuts",
+  "price": "$34.00",
+  "rating": "Good",
+  "last_purchased": "2020-05-15",
+  "total_days_last_purchased": "72"
+}
+]

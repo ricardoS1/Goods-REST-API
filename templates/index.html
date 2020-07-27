@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <style>
+        p {
+            color: blue;
+            font-family: 'Lucida Fax';
+            font-size: 33pt;
+        }
+        .form_style {
+            /* center & Scale form*/
+            margin: 0 auto;
+            width: 50%
+        }
+        label{
+            font-family: 'Times New Roman';
+            font-weight: bold;
+            font-size: 14pt;
+        }
+    </style>
+    <link rel="stylesheet" type="text/css" href="main.css"/>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css"
+          integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"
+            integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI"
+            crossorigin="anonymous"></script>
+    <meta charset="UTF-8">
+    <title>Goods Rest API</title>
+</head>
+
+<body>
+<div class="form_style" align="center">
+    <p>Add New Goods Here!!!<p>
+    <form action="/new" method="post">
+        <div class="col-xs-4">
+            <label>Name</label>
+            <input class="form-control" type="text" name="name" required>
+        </div>
+
+        <div class="">
+            <label class="">Description</label>
+            <input type="text" class="form-control" name="description" required>
+        </div>
+        <div class="">
+            <label for="">Price</label>
+            <input type="number" name="price" class="form-control" required>
+        </div>
+
+        <div class="">
+            <label class="">Rating</label>
+            <input type="text" class="form-control" name="rating" required>
+        </div>
+
+        <div class="">
+            <label class="">Last Purchased</label>
+            <input type="date" class="form-control" name="last_purchased" required>
+        </div>
+
+        <div class="">
+            <label class="">Total Days</label>
+            <input type="number" class="form-control" name="total_days_last_purchased" required>
+        </div>
+        <br>
+        <div class="form-group">
+            <button type="submit" class="btn btn-success form-control">Submit</button>
+            <button type="reset" class="btn btn-danger form-control">Clear Fields</button>
+        </div>
+    </form>
+</div>
+{% for good in goods %}
+    <p>{{ good.name }} </p>
+    <p>{{ good.description }} </p>
+    <p>{{ good.price }} </p>
+    <p>{{ good.rating }} </p>
+    <p>{{ good.last_purchased }} </p>
+    <p>{{ good.total_days_last_purchased }} </p>
+{% endfor %}
+</body>
+</html>
